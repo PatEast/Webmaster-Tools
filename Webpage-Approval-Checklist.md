@@ -32,6 +32,10 @@ No information should be presented in a format that not all people can access.
 
 Most people don't read a whole webpage. If you want them to see something, say it first.
 
+## Is emphasis used sparingly?
+
+When emphasis (bold, italics, etc.) is used too frequently, text becomes hard to read and emphasis loses all meaning. Emphasize words and phrases only and do so with caution.
+
 ## Is text content chunked into small paragraphs?
 
 Smaller groupings of textual information is easier for people to read and remember.
