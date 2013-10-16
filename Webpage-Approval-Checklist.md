@@ -46,6 +46,10 @@ To be able to be understood by the majority of our audience, text on each page h
         
 If language needs to be presented in a specific way for legal reasons, it should be summarized in Plain Text first.
 
+## __ Has the page been proofed for spelling and grammar?
+
+If so, it doesn't hurt to do it again. Spelling and grammar are huge in regards to trust and credibility.
+
 ## __ Are links useful and descriptive?
 
 Nothing is worse on a webpage than a "click here" type link. You never know where it is going by itself.
