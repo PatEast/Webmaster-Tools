@@ -28,6 +28,10 @@ What do we want the reader to take away from this page? This should be kept down
 
 No information should be presented in a format that not all people can access.
     
+## Is critical content presented first and foremost?
+
+Most people don't read a whole webpage. If you want them to see something, say it first.
+
 ## Is text content chunked into small paragraphs?
 
 Smaller groupings of textual information is easier for people to read and remember.
