@@ -38,6 +38,14 @@ To be able to be understood by the majority of our audience, text on each page h
         
 If language needs to be presented in a specific way for legal reasons, it should be summarized in Plain Text first.
 
+## Are links useful and descriptive?
+
+Nothing is worse on a webpage than a "click here" type link. You never know where it is going by itself.
+
+## Is PDF content provided in alternate, more accessible formats?
+
+All documents should be available as RTF Documents and HTML Documents if possible.
+
 ## Is there an easy way to get more information regarding this topic?
 
 There should always be a way for a reader to get more information reagrding a given topic. If contact information is available in the sidebar, this might suffice.
