@@ -37,3 +37,7 @@ Smaller groupings of textual information is easier for people to read and rememb
 To be able to be understood by the majority of our audience, text on each page has to be able to be read and understood my someone who is in a hurry. We cannot predict the level of distraction or attention that a person will have or know how well they can read at a given time, so we should reduce the challenges that we present.
         
 If language needs to be presented in a specific way for legal reasons, it should be summarized in Plain Text first.
+
+## Is there an easy way to get more information regarding this topic?
+
+There should always be a way for a reader to get more information reagrding a given topic. If contact information is available in the sidebar, this might suffice.
