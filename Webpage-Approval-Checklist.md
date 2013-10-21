@@ -10,7 +10,7 @@ Headings and subheadings are used to scan information. Therefore, they should be
 
 ## __ Do all images used have a very specific purpose?
 
-No images should just used for decoration or to "create interest" or "entertain readers."
+No images should just be used for decoration or to "create interest" or "entertain readers."
     
 ## __ Do all images have Alt tags?
 
@@ -18,7 +18,7 @@ Alt tags should describe the function that the image is playing on the page inst
     
 ## __ Using Tags and Categories
 
-Using the Wordpress ability to tage and categorize posts and pages allow us to group related pages together and make pages eaiser to search for.
+Using the Wordpress ability to tag and categorize posts and pages allow us to group related pages together and make pages eaiser to search for.
     
 ## __ Is there a clear message and course of action for the reader?
 
@@ -26,7 +26,7 @@ What do we want the reader to take away from this page? This should be kept down
     
 ## __ Do audio and video media have easily accessible transcripts?
 
-No information should be presented in a format that not all people can access.
+Information should be presented in a format that all people can access. For audio and video, this means having transcipts for people with impaired hearing.
     
 ## __ Is critical content presented first and foremost?
 
